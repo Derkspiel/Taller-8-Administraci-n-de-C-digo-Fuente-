@@ -4,7 +4,7 @@ Taller 8 – Administración de Código Fuente (repositorio)
 Descripcion;
 Desarrollo de un sistema de Login y Logout a traves del uso de la base de datos MySQL;
 
-Caracteriticas;
+Caracteristicas;
 Gestor de base de datos phpMyAdmin;
 Paquete XAMP para gestio de bases de datos;
 Servidor de codigo abierto Apache;
